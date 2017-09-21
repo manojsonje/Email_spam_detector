@@ -1,4 +1,4 @@
-# EMAIL SPAM DETECTER
+# EMAIL SPAM DETECTER(Artificial Intelligence Based Agent)
    
 email spam detector written in python work on Bayesian statistics(classification). 
 
