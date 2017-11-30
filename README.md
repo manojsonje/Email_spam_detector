@@ -16,16 +16,12 @@ email spam detector written in python work on Bayesian statistics(classification
 
 ```
 
-
-
-## Information of files###
-
 ### spam_finder :-
 
 
-                 program contains varies function to check weither email is spam or not. 
+                 program contains various functions to check weither email is spam or not(HAM). 
                  spam_finder calculates probeblities of all words in email with respect to spam & Ham. 
-                 if formulate optimum probability with Bay's classifier equation. 
+                 if formulate optimum probability with Baye's classifier equation. 
                  if probabaility with respect to spam is grater than ham then given email is spam.    
 
 
