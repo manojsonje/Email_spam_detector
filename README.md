@@ -1,6 +1,6 @@
 # EMAIL SPAM DETECTER(Artificial Intelligence Based Agent)
    
-email spam detector written in python work on Bayesian statistics(classification). 
+Email spam detector written in python work on Bayesian statistics(classification). 
 
 >Auther Name:- Manoj D. Sonje
 
@@ -21,7 +21,7 @@ email spam detector written in python work on Bayesian statistics(classification
 
                  program contains various functions to check weither email is spam or not(HAM). 
                  spam_finder calculates probeblities of all words in email with respect to spam & Ham. 
-                 if formulate optimum probability with Baye's classifier equation. 
+                 it formulate optimum probability with Baye's classifier equation. 
                  if probabaility with respect to spam is grater than ham then given email is spam.    
 
 
